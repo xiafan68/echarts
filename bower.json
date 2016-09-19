@@ -17,7 +17,7 @@
     }
   ],
   "description": "A powerful charting and visualization library for browser",
-  "main": ["build/echarts-plain-original.js", "build/echarts-plain-original-map.js"],
+  "main": ["dist/echarts.min.js", "dist/extension/bmap.min.js","dist/extension/dataTool.min.js"],
   "keywords": [
     "baidu",
     "echarts",
